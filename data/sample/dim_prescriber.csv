@@ -1,0 +1,6 @@
+prescriber_sk,prescriber_id,specialty,organization_type,practice_region,is_high_volume,network_status,npi_bucket,panel_flag,telehealth_flag,quality_score,prescribing_behavior_segment
+1,PR2001,CARD,CLINIC,MW,Y,IN_NETWORK,NPI_BUCKET_1,Y,Y,4.5,GENERIC_FAVORING
+2,PR2002,PCP,HOSPITAL,MW,N,IN_NETWORK,NPI_BUCKET_2,Y,N,4.0,MIXED
+3,PR2003,ENDO,CLINIC,NE,Y,IN_NETWORK,NPI_BUCKET_3,N,Y,4.2,GENERIC_FAVORING
+4,PR2004,ONC,HOSPITAL,WC,N,OUT_OF_NETWORK,NPI_BUCKET_4,N,N,3.6,BRAND_FAVORING
+5,PR2005,PCP,INDEPENDENT,SW,N,IN_NETWORK,NPI_BUCKET_5,Y,Y,3.9,MIXED

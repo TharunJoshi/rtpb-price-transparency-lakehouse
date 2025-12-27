@@ -1,1 +1,6 @@
-
+drug_sk,ndc,drug_name,drug_class,therapeutic_area,is_generic,tier,dosage_form,strength,route,manufacturer,is_specialty
+1,00093-7424-01,Atorvastatin 20mg,STATIN,Cardiology,Y,1,TAB,20mg,PO,ManuA,N
+2,00603-2212-16,Lipitor 20mg,STATIN,Cardiology,N,3,TAB,20mg,PO,ManuA,N
+3,00143-9876-10,Metformin 500mg,GLP1,Endocrinology,Y,1,TAB,500mg,PO,ManuB,N
+4,00088-1200-05,Eliquis 5mg,ANTICOAG,Cardiology,N,3,TAB,5mg,PO,ManuC,Y
+5,00045-6677-02,Lantus 100u,INSULIN,Endocrinology,N,4,INJ,100u,SC,ManuD,Y

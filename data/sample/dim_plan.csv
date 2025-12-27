@@ -1,1 +1,6 @@
-
+plan_sk,plan_id,plan_name,plan_type,metal_tier,network_type,deductible_individual,deductible_family,oop_max_individual,oop_max_family,pbm_name,is_dod
+1,PLAN-COM-001,Commercial Silver HMO,Commercial,Silver,HMO,1000,3000,4000,8000,Express Scripts,N
+2,PLAN-COM-002,Commercial Gold PPO,Commercial,Gold,PPO,1500,3500,5000,9000,Express Scripts,N
+3,PLAN-DOD-001,DoD Tricare Basic,DoD,Bronze,EPO,250,500,1000,2000,Express Scripts,Y
+4,PLAN-DOD-002,DoD Tricare Plus,DoD,Gold,HMO,100,300,500,1000,Express Scripts,Y
+5,PLAN-COM-003,Commercial Bronze EPO,Commercial,Bronze,EPO,2000,4000,6000,12000,Express Scripts,N

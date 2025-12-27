@@ -1,0 +1,6 @@
+pharmacy_sk,pharmacy_id,pharmacy_name,pharmacy_type,chain_flag,mail_order_flag,latitude,longitude,region_code,state_code,opens_24hrs_flag,preferred_network_flag,contract_tier
+1,PH1001,Main Street Pharmacy,retail,Y,N,39.0500,-94.6000,MW,KS,N,Y,TIER1
+2,PH1002,Express Mail Pharmacy,mail_order,Y,Y,38.9500,-94.7200,MW,KS,Y,Y,TIER1
+3,PH1003,DoD Base Pharmacy,DoD_pharmacy,N,N,39.1000,-94.5800,MW,MO,N,Y,TIER1
+4,PH1004,Neighborhood Pharmacy,retail,N,N,32.7800,-96.8000,SW,TX,N,N,TIER2
+5,PH1005,City Center Pharmacy,retail,Y,N,34.0500,-118.2500,WC,CA,N,Y,TIER2

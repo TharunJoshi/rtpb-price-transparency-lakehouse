@@ -1,0 +1,6 @@
+alt_row_id,transaction_id,alt_rank,alt_drug_ndc,alt_drug_name,alt_drug_type,alt_dosage,alt_quantity,alt_pharmacy_type,alt_price_quote,alt_prior_auth_required,formulary_tier,is_preferred
+ALT-001,TXN-10001,1,00093-7424-01,Atorvastatin 20mg,generic,20mg,30,retail,5.00,N,1,Y
+ALT-002,TXN-10002,1,00093-7424-01,Atorvastatin 20mg,generic,20mg,30,retail,20.00,N,1,Y
+ALT-003,TXN-10002,2,00143-9876-10,Metformin 500mg,therapeutic,500mg,30,retail,15.00,N,2,N
+ALT-004,TXN-10003,1,00143-9876-10,Metformin 500mg,generic,500mg,90,mail_order,5.00,N,1,Y
+ALT-005,TXN-10004,1,00603-2212-16,Lipitor 20mg,preferred_brand,20mg,30,DoD_pharmacy,3.00,Y,2,Y
